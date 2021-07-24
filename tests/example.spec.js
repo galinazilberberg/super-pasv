@@ -7,7 +7,8 @@ describe('operation with numbers',function (){
         expect(a+b,'result should be equal').to.equal(12);
     });
 
-    it('substruction works correctly', function (){
+    it('subtraction works correctly', function (){
         expect(b-a,'result should be equal').to.equal(2);
     });
 });
+//fix
